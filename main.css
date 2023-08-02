@@ -89,7 +89,7 @@ label{
   display: block;
   cursor: pointer;
   width: fit-content;
-  margin: 5px auto 0;
+  margin: 5px auto 5px;
   border: none;
     padding: 10px;
     background: red;
